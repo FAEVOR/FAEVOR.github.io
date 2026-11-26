@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Barlow,system-ui,sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#FF5C8D"/></marker>
+<radialGradient id="g" cx=".8" cy=".1" r=".9"><stop offset="0" stop-color="#732553" stop-opacity=".7"/><stop offset="1" stop-color="#142030" stop-opacity="0"/></radialGradient></defs>
+<rect width="800" height="500" fill="#16263a"/><rect width="800" height="500" fill="url(#g)"/>
+<g fill="none" stroke="#85A3B2" stroke-opacity=".12">
+<path d="M0 125H800M0 250H800M0 375H800M200 0V500M400 0V500M600 0V500"/></g>
+<!-- core plug -->
+<g transform="translate(70 170)">
+<rect x="0" y="20" width="120" height="70" rx="35" fill="#2a4256" stroke="#85A3B2" stroke-width="2"/>
+<ellipse cx="120" cy="55" rx="16" ry="35" fill="#3a5870" stroke="#85A3B2" stroke-width="2"/>
+<g fill="#E9D8C8" fill-opacity=".55"><circle cx="30" cy="45" r="4"/><circle cx="55" cy="65" r="3"/><circle cx="80" cy="40" r="3.5"/><circle cx="95" cy="70" r="3"/><circle cx="45" cy="78" r="2.5"/></g>
+<text x="60" y="125" fill="#E9D8C8" font-size="20" text-anchor="middle">Core plugs</text>
+<text x="60" y="148" fill="#85A3B2" font-size="15" text-anchor="middle">RCAL / SCAL lab data</text></g>
+<path d="M230 225H300" stroke="#FF5C8D" stroke-width="2.5" marker-end="url(#a)"/>
+<!-- neural net -->
+<g transform="translate(320 120)" stroke="#85A3B2" stroke-opacity=".45" stroke-width="1.2">
+<g id="e"><path d="M20 40L90 20M20 40L90 80M20 40L90 140M20 40L90 200M20 105L90 20M20 105L90 80M20 105L90 140M20 105L90 200M20 170L90 20M20 170L90 80M20 170L90 140M20 170L90 200"/>
+<path d="M90 20L160 75M90 80L160 75M90 140L160 75M90 200L160 75M90 20L160 145M90 80L160 145M90 140L160 145M90 200L160 145"/></g>
+<g stroke="none"><g fill="#85A3B2"><circle cx="20" cy="40" r="10"/><circle cx="20" cy="105" r="10"/><circle cx="20" cy="170" r="10"/></g>
+<g fill="#E9D8C8"><circle cx="90" cy="20" r="9"/><circle cx="90" cy="80" r="9"/><circle cx="90" cy="140" r="9"/><circle cx="90" cy="200" r="9"/></g>
+<g fill="#FF5C8D"><circle cx="160" cy="75" r="11"/><circle cx="160" cy="145" r="11"/></g></g>
+<text x="90" y="255" fill="#E9D8C8" font-size="20" text-anchor="middle" stroke="none">Regression model</text>
+<text x="90" y="278" fill="#85A3B2" font-size="15" text-anchor="middle" stroke="none">trained on saturation data</text></g>
+<path d="M505 225H575" stroke="#FF5C8D" stroke-width="2.5" marker-end="url(#a)"/>
+<!-- output curves -->
+<g transform="translate(595 130)">
+<path d="M0 0V180H150" fill="none" stroke="#85A3B2" stroke-width="2"/>
+<path d="M8 10C30 120 80 165 145 172" fill="none" stroke="#FF5C8D" stroke-width="3"/>
+<path d="M8 172C70 168 110 120 145 15" fill="none" stroke="#E9D8C8" stroke-width="3" stroke-dasharray="7 6"/>
+<text x="75" y="220" fill="#E9D8C8" font-size="20" text-anchor="middle">Predicted Pc and kr</text>
+<text x="75" y="243" fill="#85A3B2" font-size="15" text-anchor="middle">vs water saturation</text></g>
+</svg>

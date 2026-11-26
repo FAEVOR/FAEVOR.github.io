@@ -1,0 +1,58 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500' font-family='Barlow,system-ui,sans-serif'>
+<rect width='800' height='500' fill='#16263a'/>
+<rect x='24' y='24' width='752' height='452' rx='8' fill='#1b2f44' stroke='#85A3B2' stroke-opacity='.25'/>
+<text x='52' y='68' fill='#E9D8C8' font-size='22' font-weight='600'>British Airways reviews</text>
+<text x='52' y='94' fill='#85A3B2' font-size='15'>1,324 reviews · 2016 to 2023 · 56 countries</text>
+<path d='M60 350H400' stroke='#85A3B2' stroke-opacity='.15'/><text x='50' y='354' fill='#85A3B2' font-size='12' text-anchor='end'>2</text>
+<path d='M60 283H400' stroke='#85A3B2' stroke-opacity='.15'/><text x='50' y='287' fill='#85A3B2' font-size='12' text-anchor='end'>3</text>
+<path d='M60 217H400' stroke='#85A3B2' stroke-opacity='.15'/><text x='50' y='221' fill='#85A3B2' font-size='12' text-anchor='end'>4</text>
+<path d='M60 150H400' stroke='#85A3B2' stroke-opacity='.15'/><text x='50' y='154' fill='#85A3B2' font-size='12' text-anchor='end'>5</text>
+<polyline points='60,206 109,176 157,179 206,211 254,161 303,253 351,245 400,309' fill='none' stroke='#FF5C8D' stroke-width='3' stroke-linejoin='round'/>
+<circle cx='60' cy='206' r='4.5' fill='#E9D8C8'/>
+<text x='60' y='372' fill='#85A3B2' font-size='12' text-anchor='middle'>16</text>
+<circle cx='109' cy='176' r='4.5' fill='#E9D8C8'/>
+<text x='109' y='372' fill='#85A3B2' font-size='12' text-anchor='middle'>17</text>
+<circle cx='157' cy='179' r='4.5' fill='#E9D8C8'/>
+<text x='157' y='372' fill='#85A3B2' font-size='12' text-anchor='middle'>18</text>
+<circle cx='206' cy='211' r='4.5' fill='#E9D8C8'/>
+<text x='206' y='372' fill='#85A3B2' font-size='12' text-anchor='middle'>19</text>
+<circle cx='254' cy='161' r='4.5' fill='#E9D8C8'/>
+<text x='254' y='372' fill='#85A3B2' font-size='12' text-anchor='middle'>20</text>
+<circle cx='303' cy='253' r='4.5' fill='#E9D8C8'/>
+<text x='303' y='372' fill='#85A3B2' font-size='12' text-anchor='middle'>21</text>
+<circle cx='351' cy='245' r='4.5' fill='#E9D8C8'/>
+<text x='351' y='372' fill='#85A3B2' font-size='12' text-anchor='middle'>22</text>
+<circle cx='400' cy='309' r='4.5' fill='#E9D8C8'/>
+<text x='400' y='372' fill='#85A3B2' font-size='12' text-anchor='middle'>23</text>
+<text x='400' y='327' fill='#FF5C8D' font-size='13' text-anchor='end' dx='-8'>2.6 in 2023</text>
+<text x='30' y='128' fill='#E9D8C8' font-size='15'>Average overall rating (out of 10)</text>
+<text x='450' y='128' fill='#E9D8C8' font-size='15'>Average score by area (out of 5)</text>
+<text x='450' y='163' fill='#85A3B2' font-size='13'>Cabin staff</text>
+<rect x='555' y='152' width='200' height='14' rx='3' fill='#85A3B2' fill-opacity='.12'/>
+<rect x='555' y='152' width='133' height='14' rx='3' fill='#E9D8C8'/>
+<text x='696' y='164' fill='#E9D8C8' font-size='12'>3.3</text>
+<text x='450' y='199' fill='#85A3B2' font-size='13'>Ground service</text>
+<rect x='555' y='188' width='200' height='14' rx='3' fill='#85A3B2' fill-opacity='.12'/>
+<rect x='555' y='188' width='122' height='14' rx='3' fill='#85A3B2'/>
+<text x='685' y='200' fill='#E9D8C8' font-size='12'>3.0</text>
+<text x='450' y='235' fill='#85A3B2' font-size='13'>Seat comfort</text>
+<rect x='555' y='224' width='200' height='14' rx='3' fill='#85A3B2' fill-opacity='.12'/>
+<rect x='555' y='224' width='116' height='14' rx='3' fill='#85A3B2'/>
+<text x='679' y='236' fill='#E9D8C8' font-size='12'>2.9</text>
+<text x='450' y='271' fill='#85A3B2' font-size='13'>Value</text>
+<rect x='555' y='260' width='200' height='14' rx='3' fill='#85A3B2' fill-opacity='.12'/>
+<rect x='555' y='260' width='111' height='14' rx='3' fill='#85A3B2'/>
+<text x='674' y='272' fill='#E9D8C8' font-size='12'>2.8</text>
+<text x='450' y='307' fill='#85A3B2' font-size='13'>Entertainment</text>
+<rect x='555' y='296' width='200' height='14' rx='3' fill='#85A3B2' fill-opacity='.12'/>
+<rect x='555' y='296' width='109' height='14' rx='3' fill='#85A3B2'/>
+<text x='672' y='308' fill='#E9D8C8' font-size='12'>2.7</text>
+<text x='450' y='343' fill='#85A3B2' font-size='13'>Food &amp; drink</text>
+<rect x='555' y='332' width='200' height='14' rx='3' fill='#85A3B2' fill-opacity='.12'/>
+<rect x='555' y='332' width='106' height='14' rx='3' fill='#FF5C8D'/>
+<text x='669' y='344' fill='#E9D8C8' font-size='12'>2.7</text>
+<rect x='52' y='418' width='136' height='34' rx='17' fill='none' stroke='#85A3B2' stroke-opacity='.5'/><text x='120' y='440' fill='#E9D8C8' font-size='14' text-anchor='middle'>Pick a metric ▾</text>
+<rect x='202' y='418' width='136' height='34' rx='17' fill='none' stroke='#85A3B2' stroke-opacity='.5'/><text x='270' y='440' fill='#E9D8C8' font-size='14' text-anchor='middle'>Seat type ▾</text>
+<rect x='352' y='418' width='136' height='34' rx='17' fill='none' stroke='#85A3B2' stroke-opacity='.5'/><text x='420' y='440' fill='#E9D8C8' font-size='14' text-anchor='middle'>Traveller type ▾</text>
+<rect x='502' y='418' width='136' height='34' rx='17' fill='none' stroke='#85A3B2' stroke-opacity='.5'/><text x='570' y='440' fill='#E9D8C8' font-size='14' text-anchor='middle'>Continent ▾</text>
+</svg>
